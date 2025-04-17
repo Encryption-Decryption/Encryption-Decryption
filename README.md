@@ -13,6 +13,8 @@ Nama saya **Gilang**. Saya adalah siswa SMP yang sedang belajar menjadi **Backen
 
 ## Kontak
 
+- Email: gilangramadhani.py@gmail.com 
+
 - GitHub: [Encryption-Decryption](https://github.com/Encryption-Decryption)
 
 - Server Discord: [A Server That You Can Join if You're Ugly](https://discord.gg/qhFGGDpQzZ)
